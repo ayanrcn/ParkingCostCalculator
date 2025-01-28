@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParkingCostCalculator">
+    <test name="Calculate Parking Cost">
+        <classes>
+            <class name="costcalculationTest.TestClass" />
+        </classes>
+    </test>
+</suite>

@@ -6,7 +6,7 @@
       <class name="costcalculationTest.TestClass">
         <methods>
           <include name="setup"/>
-          <include name="valet24hour"/>
+          <include name="Economy4hour59min"/>
         </methods>
       </class> <!-- costcalculationTest.TestClass -->
     </classes>
